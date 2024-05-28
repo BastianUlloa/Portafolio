@@ -98,7 +98,7 @@ button:hover{
     width: 20%;
     height: 20%;
     margin-top: 10%;
-    margin-bottom: 14.1%;
+    margin-bottom: 9.34%;
 }
 
 footer {
@@ -112,5 +112,10 @@ footer {
 
 .footer {
     display: flex;
-    justify-content: space-between;
+}
+
+.footer li {
+    display: inline-block;
+    padding: 0px, 20px;
+    margin-right: 40px;
 }

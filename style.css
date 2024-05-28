@@ -112,11 +112,22 @@ footer {
 
 .footer {
     display: flex;
+    flex-direction: row;
+}
+
+
+
+.hablemos{
+    color: azure;
     flex-direction: column;
 }
 
-.footer li {
-    display: inline-block;
-    padding: 0px, 20px;
-    margin-right: 40px;
+.escribeme {
+    color: azure;
+    flex-direction: column;
+}
+
+.follow  {
+    color: azure;
+    flex-direction: column;
 }

@@ -100,3 +100,17 @@ button:hover{
     margin-top: 10%;
     margin-bottom: 14.1%;
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px, 10%;
+    background-color: #171616;
+    height: 90px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}

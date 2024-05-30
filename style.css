@@ -131,3 +131,57 @@ footer {
     color: azure;
     flex-direction: column;
 }
+
+.container-portafolio {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    padding: none;
+    background-color: #171616;
+    justify-content: center;
+    align-items: center;
+    color: azure;
+}
+
+.box {
+    margin-top: 10%;
+    margin-left: auto;
+    margin-bottom: 10.743149%;
+    flex-wrap: wrap;
+    display: flex;
+    width: 50%;
+    font-size: 15px;
+    font-family: "Roboto Mono", monospace;
+}
+
+.text {
+    margin-left: auto;
+    margin-top: 9%;
+    margin-bottom: auto;
+    flex-wrap: wrap;
+    display: flex;
+    width: 25%;
+    height: 100%;
+    flex-direction: column;
+}
+
+.foto-myboya {
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    height: 70%;
+    margin-top: 3%;
+    margin-bottom: 9.34%;
+
+}
+
+.titulo {
+    font-size: 80px;
+    font-family: "Roboto Mono", monospace;
+}
+
+.descripcion {
+    font-size: 16px;
+    font-family: "Roboto Mono", monospace;
+}

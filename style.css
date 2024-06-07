@@ -126,17 +126,17 @@ button:hover{
 
 footer {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     padding: 30px, 10%;
     background-color: #171616;
     height: 90px;
 }
 
-.footer {
+/* .footer {
     display: flex;
     flex-direction: row;
-}
+} */
 
 
 

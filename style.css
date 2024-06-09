@@ -130,7 +130,8 @@ footer {
     align-items: center;
     padding: 30px, 10%;
     background-color: #171616;
-    height: 90px;
+    height: 72.86px;
+    font-family: "Roboto Mono", monospace;
 }
 
 
@@ -148,6 +149,21 @@ footer {
 .follow  {
     color: azure;
     flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.text_follow {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.img_follow {
+    display: flex;
+    justify-content: none;
+    align-items: center;
+    flex-direction: row;
+    width: 10px;
+    height: 10px;
 }
 
 .container-portafolio {

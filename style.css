@@ -93,6 +93,38 @@ button:hover{
     background-color: #363434;
 }
 
+.boton_hablemos {
+    width: 150px;
+    height: 60px;
+    margin-left: 0px;
+    margin-top: 10px;
+    padding: 9px 25px;
+    background-color: #3D7F6B;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.boton_hablemos:hover {
+    background-color: #19342C;
+}
+
+.boton_portafolio {
+    height: 60px;
+    margin-left: 5px;
+    padding: 9px 25px;
+    background-color: azure;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    color: #171616 !important;
+}
+
+.boton_portafolio:hover {
+    background-color: #CDCDCD;
+}
+
 .contenedor {
     margin: 0;
     display: flex;
@@ -171,13 +203,6 @@ footer {
     font-size: 16px;
 }
 
-/* .img_follow {
-    display: flex;
-    justify-content: none;
-    align-items: center;
-    flex-direction: row;
-} */
-
 .container-portafolio {
     width: 100%;
     height: 100%;
@@ -210,6 +235,14 @@ footer {
     width: 25%;
     height: 100%;
     flex-direction: column;
+}
+
+.tercero {
+    margin-top: 30px;
+}
+
+.botones_texto {
+    margin-top: 10px;
 }
 
 .foto-myboya {

@@ -90,12 +90,12 @@ header {
     transition: all 0.3s ease 0s;
 }
 
-.boton_portafolio:hover {
-    background-color: #e4e4e4ec;
-}
-
 .boton_portafolio>a{
     color: black;
+}
+
+.boton_portafolio:hover {
+    background-color: #e4e4e4ec;
 }
 
 

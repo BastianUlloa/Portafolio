@@ -78,7 +78,7 @@ header {
     transform-origin: bottom left;
 }
 
-/* .boton_portafolio {
+.boton_portafolio {
     width: 230px;
     height: 60px;
     margin-bottom: 0px;
@@ -96,7 +96,7 @@ header {
 
 .boton_portafolio:hover {
     background-color: #e4e4e4ec;
-} */
+}
 
 
 .boton_hablemos {

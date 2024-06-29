@@ -273,3 +273,29 @@ footer {
     font-family: "Roboto Mono", monospace;
 }
 
+.foto-powerbi {
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    height: 70%;
+    margin-top: 3%;
+    margin-bottom: 9.34%;
+}
+
+.foto-grafico {
+    align-items: center;
+    justify-content: center;
+    width: 70%;
+    height: 70%;
+    margin-top: 3%;
+    margin-bottom: 9.34%;
+}
+
+.portafolio-powerbi {
+    margin-top: 5%;
+    margin-bottom: 0%;
+}
+
+.portafolio-python {
+    margin-top: 0%;
+}
